@@ -10,4 +10,4 @@ On decoding the string from base64 we have the orignal password:
 ![alt text](https://i.imgur.com/rTvxnNn.png?1)
 
 
-##### Password for Krypton1 : KRYPTONISGREAT
+#### Password for Krypton1 : KRYPTONISGREAT
