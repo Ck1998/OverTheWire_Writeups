@@ -13,10 +13,10 @@ Upon opening the url and entering the credentials, the following page shows up-
 Upon viewing the source code for the page:
 ![alt text](https://i.imgur.com/8Z44feY.png?1)
 
-Now we see that there is a comment 'No more information leaks!! Not even Google will find it this time...' this might mean that there is a directory which google's spider might not crawl, means we have to look at the ' robots.txt ' file. on visiting the url [http://natas2.natas.labs.overthewire.org/robots.txt](http://natas2.natas.labs.overthewire.org/robots.txt) , we get the following page:
+Now we see that there is a comment 'No more information leaks!! Not even Google will find it this time...' this might mean that there is a directory which google's spider might not crawl, means we have to look at the ' robots.txt ' file. on visiting the url [http://natas2.natas.labs.overthewire.org/robots.txt](http://natas3.natas.labs.overthewire.org/robots.txt) , we get the following page:
 ![alt text](https://i.imgur.com/SiwW2BC.png?1)
 
-Now we know that there is a directory named ' /s3cr3t/ '. on following the url [http://natas2.natas.labs.overthewire.org/s3cr3t/](http://natas2.natas.labs.overthewire.org//s3cr3t/), we get: 
+Now we know that there is a directory named ' /s3cr3t/ '. on following the url [http://natas2.natas.labs.overthewire.org/s3cr3t/](http://natas3.natas.labs.overthewire.org//s3cr3t/), we get: 
 ![alt text](https://i.imgur.com/OdG3i8t.png?1)
 
 Checking the "users.txt" file, we have:
